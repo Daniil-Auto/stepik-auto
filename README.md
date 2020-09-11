@@ -1,3 +1,1 @@
-# stepik---auto-tests-course
-Cod to cours
-Текст
+Файл Readme с какой-то информацией
